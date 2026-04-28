@@ -1,1 +1,0 @@
-Configured VLAN 10 and 20 and assigned ports.
