@@ -1,0 +1,1 @@
+Configured NAT for internet access.
